@@ -18,7 +18,7 @@ Durante mi carrera, trabajé en proyectos reales que lograron optimizar flujos d
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h1>GitHub Stats! 📊</h1>
+<h1>Estadísticas GitHub! 📊</h1>
 <Br>
   
 [![Arya's github stats](https://github-readme-stats.vercel.app/api?username=BrunoGimenez23&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGimenez23&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
