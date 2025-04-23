@@ -5,6 +5,13 @@
 Durante mi carrera, trabajé en proyectos reales que lograron optimizar flujos de trabajo y aumentar conversiones. Actualmente estoy desarrollando Ediflow, una app web para la administración de edificios, donde combino lo mejor de mis habilidades en frontend y backend para ofrecer una solución completa y escalable.
 <br />
 
+<h1>Contacto</h1>
+<Br>
+
+<a href="https://www.linkedin.com/in/brunomi-gimenez/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"
+
+
 <Br>
 <h1>Herramientas 🛠️</h1>
 <Br>
